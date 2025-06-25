@@ -1,0 +1,9 @@
+C:\Users\Юрий Грепечук\source\repos\PricingCalculator\PricingCalculator\bin\Debug\PricingCalculator.exe.config
+C:\Users\Юрий Грепечук\source\repos\PricingCalculator\PricingCalculator\bin\Debug\PricingCalculator.exe
+C:\Users\Юрий Грепечук\source\repos\PricingCalculator\PricingCalculator\bin\Debug\PricingCalculator.pdb
+C:\Users\Юрий Грепечук\source\repos\PricingCalculator\PricingCalculator\obj\Debug\PricingCalculator.csproj.AssemblyReference.cache
+C:\Users\Юрий Грепечук\source\repos\PricingCalculator\PricingCalculator\obj\Debug\PricingCalculator.Properties.Resources.resources
+C:\Users\Юрий Грепечук\source\repos\PricingCalculator\PricingCalculator\obj\Debug\PricingCalculator.csproj.GenerateResource.cache
+C:\Users\Юрий Грепечук\source\repos\PricingCalculator\PricingCalculator\obj\Debug\PricingCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Юрий Грепечук\source\repos\PricingCalculator\PricingCalculator\obj\Debug\PricingCalculator.exe
+C:\Users\Юрий Грепечук\source\repos\PricingCalculator\PricingCalculator\obj\Debug\PricingCalculator.pdb

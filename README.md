@@ -8,7 +8,7 @@
 
 > Ниже представлены примеры интерфейса программы (консольный вариант). Если вы используете графический интерфейс (Windows Forms), замените изображения на актуальные.
 
-![Скриншот 1: Ввод данных](screenshots/input_screen.png)  
+![Скриншот 1: Ввод данных][(screenshots/input_screen.png) ](https://github.com/Digital-Department-Vavilov-University/PricingCalculator/tree/main/screenshots) 
 *Пример ввода данных пользователем*
 
 ![Скриншот 2: Результаты расчёта](screenshots/result_table.png)  
